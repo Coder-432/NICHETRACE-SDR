@@ -218,3 +218,30 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# --- AI / ML Model Weights & Caches ---
+# Prevent uploading heavy local Hugging Face or PyTorch model weights to GitHub
+*.safetensors
+*.bin
+*.pt
+*.pth
+.cache/
+huggingface/
+transformers_cache/
+
+# --- Environment Variables & Secrets ---
+# Never upload your live API keys or Sentry DSNs
+.env
+.env.local
+secrets.json
+credentials.json
+
+# --- OS Metadata ---
+# Prevent macOS and Windows junk files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# --- Logs & Runtime ---
+logs/
+*.log
