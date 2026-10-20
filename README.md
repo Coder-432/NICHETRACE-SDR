@@ -185,6 +185,9 @@ export SENTRY_DSN="[https://your_sentry_dsn_here@o0.ingest.sentry.io/0](https://
 ***5. Execute application***
 python app.py
 
+***Run the test script(optional):***
+python test_pipeline.py
+
 
 <img width="554" height="554" alt="WEEK 3 5" src="https://github.com/user-attachments/assets/ebc2c8b4-c848-4a4f-ac81-2e76adaf0615" />
 
