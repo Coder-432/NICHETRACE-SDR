@@ -103,15 +103,22 @@ NicheTrace is architected as a high-performance Single-Page Application (SPA) dr
 
 ## 1. Dynamic Mode Switcher Navigation
 Operators can instantly reconfigure the operational scope of the application using the top-right header navigation tabs:
+
 Full Engine Mode: Combines both market discovery (SerpApi) and financial equity intelligence into a single unified analysis.
+
 Market Research Only: Isolates the pipeline to focus purely on competitor tracking, search intent, and channel saturation.
+
 Financial Equity Only: Restricts execution to ticker momentum, institutional flows, and financial health metrics.
 
 ## 2. Control Center Layout & Component Breakdown
 The interface is engineered with a modern, high-contrast Tailwind CSS layout designed for instant data digestion and zero cognitive friction:
+
 Intelligence Query Parameters (Left Panel): Dedicated input controls for targeting specific micro-SaaS keywords (e.g., "solar crm") and correlating them directly with live equity tickers (e.g., "$NVDA").
+
 Execution Telemetry Waterfall: Real-time logging of sub-second reasoning layers (combined_execution, scoring_engine, reasoning_inference), providing instant visibility into pipeline execution speed.
+
 Summary Metric Cards & Directives (Right Panel): Instantly surfaces key performance indicators including the calculated Viability Score (69/100), market competitor saturation count, and AI-generated strategic directives complete with step-by-step actionable playbooks.
+
 Visual Charts Hub: Features an advanced analytics suite containing a Line Chart tracking market demand versus equity momentum over time, a Bar Chart evaluating channel volume saturation (Organic vs. Paid Ads), and a Doughnut Chart breaking down optimal monetization models.
 
 
