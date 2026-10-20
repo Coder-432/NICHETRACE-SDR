@@ -1,0 +1,29 @@
+# Python Core Web Framework & ASGI Server
+fastapi>=0.100.0
+uvicorn[standard]>=0.22.0
+pydantic>=2.0.0
+jinja2>=3.1.2
+
+# Package Management & Python Environment
+pip>=23.0.0
+setuptools>=68.0.0
+wheel>=0.40.0
+
+# Local AI Engine & Deep Learning Runtime
+torch>=2.0.0
+transformers>=4.35.0
+accelerate>=0.20.0
+
+# SerpApi Multi-Engine Data Ingestion & Search Mesh API
+# Official PyPI package for SerpApi search calls (google, google_news, google_maps, google_finance)
+google-search-results>=2.4.2
+serpapi>=1.1.0
+
+# Sentry Observability, Telemetry & OpenTelemetry Tracing
+sentry-sdk[opentelemetry]>=2.0.0
+
+# Embedded Frontend Runtime Specifications (Served via FastAPI HTMLResponse)
+# - HTML5 (Native DOM rendering)
+# - JavaScript ES6+ (Native Fetch API client)
+# - Tailwind CSS (CDN: https://cdn.tailwindcss.com)
+# - Chart.js (CDN: https://cdn.jsdelivr.net/npm/chart.js)
