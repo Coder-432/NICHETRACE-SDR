@@ -214,6 +214,9 @@ Stop shipping into the void. Turn on the lights, protect your privacy, and build
 
 <img width="1200" height="630" alt="SENTRY" src="https://github.com/user-attachments/assets/844f813e-7c47-4ab5-9b27-a7df1ac8e9e7" />
 
+
+
+------------
 > **📝 Note on Repository Updates:** 
 > While the core project code, pipeline logic, and instrumentation were completed during the official Hacktoberfest challenge window, `README.md` , and `requirements.txt` specifications were polished and structured post-deadline for enhanced clarity and ease of setup.
                    
