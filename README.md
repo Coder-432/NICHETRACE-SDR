@@ -228,5 +228,5 @@ Stop shipping into the void. Turn on the lights, protect your privacy, and build
 
 ------------
 > **📝 Note on Repository Updates:** 
-> While the core project code, pipeline logic, and instrumentation were completed during the official Hacktoberfest challenge window, `README.md` , and `requirements.txt` specifications were polished and structured post-deadline for enhanced clarity and ease of setup.
+> While the core project code, pipeline logic, and instrumentation were completed during the official Hacktoberfest challenge window, `README.md`  and `requirements.txt` specifications were polished and structured post-deadline for enhanced clarity and ease of setup.
                    
